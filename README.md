@@ -16,6 +16,13 @@ Scaffold your project:
 cookiecutter gh:rpalo/cookiecutter-p5js 
 ```
 
+# Minimal Mode
+
+There is a more minimal version of this cookiecutter template for those without the need to have an 80MB node_modules folder for a simple project.  To scaffold a project using the minimal version, simply run:
+```
+cookiecutter gh:rpalo/cookiecutter-p5js --checkout minimal
+```
+
 # Features
 
 - ES6 today via [Babel](https://babeljs.io/)
