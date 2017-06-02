@@ -1,10 +1,9 @@
-# cookiecutter-es6-boilerplate
-[![Build Status](https://travis-ci.org/agconti/cookiecutter-es6-boilerplate.svg?branch=master)](https://travis-ci.org/agconti/cookiecutter-es6-boilerplate)
+# cookiecutter-p5js
 
-A lean cookiecutter for front-end prototypes. Built for bleeding edge development with ES6.
+A cookiecutter for p5js projects, based on the es6-boilerplate cookiecutter by @agconti.
 
 ## Overview
-This project takes care of the setup and configuration so you can focus on making your app awesome. Scaffolding a project takes seconds and it gives you the essentials, like ES6 through Bable and a viable scss framework, to get started. This project aims to get out of your way, and to allow you easily create while providing a solid foundation for your app to mature in the future.
+This project takes care of the setup and configuration so you can focus on making your app awesome. Scaffolding a project takes seconds and it gives you the essentials, like ES6 through Babel and a viable scss framework, to get started. This project aims to get out of your way, and to allow you easily create while providing a solid foundation for your project to mature in the future.
 
 ## Quick Start
 Install [cookiecutter](https://github.com/audreyr/cookiecutter):
@@ -14,10 +13,8 @@ pip install cookiecutter
 
 Scaffold your project:
 ```
-cookiecutter gh:agconti/cookiecutter-es6-boilerplate
+cookiecutter gh:rpalo/cookiecutter-p5js 
 ```
-
-![es6 scaffolding](https://cloud.githubusercontent.com/assets/3332051/10678207/df1f2de0-78de-11e5-84b7-62484ddfea56.gif)
 
 # Features
 
