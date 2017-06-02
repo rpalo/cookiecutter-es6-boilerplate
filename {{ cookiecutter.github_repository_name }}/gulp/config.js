@@ -4,7 +4,7 @@ export const modules = 'ignore'
 
 // path config
 export const baseDir = './'
-export const srcDir = `${baseDir}src`
+export const srcDir = `${baseDir}/src`
 export const distDir = `${baseDir}/dist`
 export const projectDir = `${srcDir}/${projectName}`
 export const staticSrc = `${srcDir}/**/*.{html,jpg,png,gif,svg}`
